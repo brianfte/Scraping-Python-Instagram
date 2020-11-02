@@ -1,3 +1,3 @@
 # PythonInstagramEndPoint
-extraer informacion de los end point de instagram mediante python
+Extraer informacion de los end point de instagram mediante python
 Author: BrianFte 
